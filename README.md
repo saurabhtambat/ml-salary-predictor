@@ -8,7 +8,7 @@ The Software Developer Salary Predictor is a machine learning-based web applicat
 - Years of Experience: The number of years the user has been working as a software developer.
 
 The model is built using XGBoost, a powerful and popular algorithm for structured data.
-The interface off web app is built using Streamlit, which makes it highly interactive and easy to use.
+The interface of web app is built using Streamlit, which makes it highly interactive and easy to use.
 link:- https://developer-salary-predictor.onrender.com
 
 #Technologies and Libraries Used:
